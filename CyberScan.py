@@ -16,6 +16,10 @@
 #
 #  Author: Mohamed BEN ALI
 
+
+
+#implimaent web-scraping algorithm to reduce time-complexity
+
 import os
 import sys
 import platform
